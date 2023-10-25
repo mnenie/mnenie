@@ -1,27 +1,9 @@
 <h1 align="center">👋 Hello! I'm Alex</h1>
 
 <p align="center">
-I am a frontend developer. I like to walk and spend time when I'm programming and drinking coffee. I always find goals and try to achieve them Participated in hackathons: VTB Open API 2023, TulaHack2.0.
+I am a frontend developer. I like to walk and spend time when I'm programming and drinking coffee. I always find goals and try to achieve them. Participated in hackathons: VTB Open API 2023, TulaHack2.0.
 </p>
 
-<div align="center">
-  <a href="https://t.me/youngjuicycashrussia" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/telegram/telegram.svg" width="20px" height="20px"  alt="tg" />
-  </a>&nbsp
-  <a style="" href="https://vk.com/mnenie_mozhno" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/VK.png" width="20px" height="20px" alt="vk" />
-  </a>&nbsp
-  <a href="https://discordapp.com/users/886264669478727730/" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/discord/discord.svg" width="20px" height="20px" alt="discord" />
-  </a>&nbsp
-  <a href="mailto: alexpeshkov4vuz@gmail.com" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/gmail/gmail.svg" width="20px" height="20px"  alt="gmail" />
-  </a>&nbsp
-  <a href="https://www.youtube.com/channel/UCWKSTQaQMBSaYtIaxXuD7vQ" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/youtube/youtube.svg" width="20px" height="20px" alt="youtube" />
-  </a>&nbsp
-</div>
-<br>
 
 ```
 class Alex extends Developer {
@@ -44,7 +26,7 @@ class Alex extends Developer {
 }
 ```
 
-### Stack
+### 🧰 My tollbox
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp
