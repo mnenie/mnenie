@@ -7,19 +7,19 @@ I am a frontend developer. I like to walk and spend time when I'm programming an
 <div align="center">
   <a href="https://t.me/youngjuicycashrussia" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/telegram/telegram.svg" width="20px" height="20px"  alt="tg" />
-  </a>
-  <a href="https://vk.com/mnenie_mozhno" target="_blank">
+  </a>&nbsp
+  <a style="" href="https://vk.com/mnenie_mozhno" target="_blank">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/VK.png" width="20px" height="20px" alt="vk" />
-  </a>
+  </a>&nbsp
   <a href="https://discordapp.com/users/886264669478727730/" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/discord/discord.svg" width="20px" height="20px" alt="discord" />
-  </a>
+  </a>&nbsp
   <a href="mailto: alexpeshkov4vuz@gmail.com" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/gmail/gmail.svg" width="20px" height="20px"  alt="gmail" />
-  </a>
+  </a>&nbsp
   <a href="https://www.youtube.com/channel/UCWKSTQaQMBSaYtIaxXuD7vQ" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/youtube/youtube.svg" width="20px" height="20px" alt="youtube" />
-  </a>
+  </a>&nbsp
 </div>
 <br>
 
