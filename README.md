@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Alex</h1>
 
 <p align="center">
-I am a frontend developer. I like to walk and spend time when I'm programming and drinking coffee. I always find goals and try to achieve them. Participated in hackathons: VTB Open API 2023, TulaHack2.0.
+I am a frontend developer. Participated in hackathons: VTB Open API 2023, TulaHack2.0.
 </p>
 
 
