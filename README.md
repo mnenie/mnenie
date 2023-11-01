@@ -2,6 +2,7 @@
 
 <p align="center">
 I am a frontend developer. Participated in hackathons: VTB Open API 2023, TulaHack2.0.
+You can get acquainted with my works in repositories!
 </p>
 
 
