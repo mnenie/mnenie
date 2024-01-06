@@ -1,36 +1,24 @@
-<h1 align="center">👋 Hello! I'm Alex</h1>
+# Hello! I'm Alex
 
-<p align="center">
-I am a frontend developer. Participated in hackathons: VTB Open API 2023, Lct2023, TulaHack2.0.
-You can get acquainted with my works in repositories!
+### :man_technologist: About me:
+
+<p>
+I am a frontend developer. I specialize in creating modern and responsive user interfaces using best development practices. Love Vue & Nuxt )))
 </p>
 
-```
-class Alex extends Developer {
-  private name: string;
-  private age: number;
-  private education: string;
-  private hobbies: string[];
+- :telescope: Participated in hackathons: VTB Open API 2023, Lct2023, TulaHack2.0, MireaIPTIP Hackathon and more
 
-  constructor() {
-    this.name = 'Alex Peshkov';
-    this.age = 19;
-    this.education = 'RTU Mirea'
-    this.hobbies = ['Hockey', 'Basketball'];
-  }
+- :zap: My portfolio includes a variety of projects ranging from standard applications to large-scale endeavors, such as an ecommerce websites, business services, agile system and more
 
-  public currentLocation(): string {
-    return 'Russia, Moscow';
-  }
+- :mailbox: How to connect with me: [![Telegram Badge](https://img.shields.io/badge/-youngjuicycashrussia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/youngjuicycashrussia) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:1alexpeshkov@gmail.com)
 
-}
-```
+
 
 ### 🧰 My tollbox
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
     <img src="https://pinia.vuejs.org/logo.svg" title="pinia" alt="pinia" width="40" height="40"/>
