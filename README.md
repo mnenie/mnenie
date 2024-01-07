@@ -30,6 +30,8 @@ I am a frontend developer. I specialize in creating modern and responsive user i
    <img src="https://seeklogo.com/images/V/vueuse-logo-C7294BFD15-seeklogo.com.png" title="vue use" alt="vue use" width="30" height="35"/>&nbsp;
    <img src="https://www.radix-vue.com/logo.svg" title="radix" alt="radix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjouFTAB2PcXfnfkjy1SUjkaMeaymXnzoOA&usqp=CAU" title="shadcn" alt="shadcn" width="40" height="40"/>&nbsp;
+  <img src="https://www.primefaces.org/wp-content/uploads/2019/12/primevue-logo.png" title="prime" alt="prime" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://vitejs.dev/logo.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
