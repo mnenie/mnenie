@@ -8,7 +8,7 @@ I am a frontend developer. I specialize in creating modern and responsive user i
 
 - :telescope: Participated in hackathons: VTB Open API 2023, Lct2023, TulaHack2.0, MireaIPTIP Hackathon and more
 
-- :zap: My portfolio includes a variety of projects ranging from standard applications to large-scale endeavors, such as an ecommerce websites, business services, agile system and more
+- :zap: My portfolio includes a variety of projects ranging from standard applications to large-scale endeavors, such as an ecommerce websites, business services, agile system, virtual whiteboard and more
 
 - :mailbox: How to connect with me: [![Telegram Badge](https://img.shields.io/badge/-youngjuicycashrussia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/youngjuicycashrussia) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:1alexpeshkov@gmail.com)
 
