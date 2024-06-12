@@ -7,6 +7,6 @@
     <a href="https://t.me/youngjuicycashrussia">telegram</a> ᐧ
     <a href="https://discordapp.com/users/886264669478727730">discord</a>
     <br/>
-    🛠 My toolbox: Vue, Nuxt, TypeScript, JavaScript, Pinia, Vuex, Vue Router, Vue Query, VueUse, Sass/SCSS, Tailwind, HTML/CSS, Storybook, Git, Vite, Webpack, REST, Npm, Yarn
+    🛠 My toolbox: Vue, Nuxt, TypeScript, JavaScript, Pinia, Vuex, Vue Router, Vue Query, VueUse, Sass/SCSS, Tailwind, HTML/CSS, Vitest/Jest, Storybook, Git, Vite, Webpack, REST, Npm, Yarn
   </samp>
 </p>
