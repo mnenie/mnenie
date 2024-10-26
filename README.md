@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://alexpeshkov.vercel.app/">alexpeshkov</a> ᐧ
+    <a href="https://alexpeshkov.nuxt.dev/">alexpeshkov</a> ᐧ
     <a href="mailto:alexpeshkov.work@gmail.com">gmail</a> ᐧ
     <a href="https://github.com/mnenie/speech-conference-2024">talks</a> ᐧ 
     <a href="https://vk.com/mnenie_mozhno">vk</a> ᐧ
